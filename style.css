@@ -4,13 +4,20 @@ font-family: 'Times New Roman', Times, serif;
 }
 
 table {
-    text-align: left;
-}
+    text-align: center;
+  }
+
 .RowTable {
     background-color: rgb(0, 166, 232);
     color: white;
     font-weight: bold;
 }
-.Table {
+
+.CenterTable {
     background-color: skyblue;
 }
+
+h3 {
+    color: gray;
+}
+
