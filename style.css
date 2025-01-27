@@ -33,3 +33,33 @@ h3 {
     color: gray;
 }
 
+body {
+    border-width: medium ;
+}
+
+#P1 {
+    color: white;
+    margin: 0px;
+    background-image: url(Img/monitor.jpg);
+    background-repeat: no-repeat;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260%;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+}
+
+#P2 {
+    color: white;
+    margin: 0px;
+    background-image: url(Img/graph.jpg);
+    background-repeat: no-repeat;
+    font-size: 140%;
+    font-weight: normal;
+    line-height: 260%;
+    text-align: center;
+    width: 240px;
+    height: 150px;
+}
+
